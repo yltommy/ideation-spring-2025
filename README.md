@@ -2,6 +2,16 @@
 
 This repository is for the ideation of the project. It is a place to share ideas and discuss them.
 
+## How to use `TEMPLATE-1.md`
+
+Accurately filling out the template is crucial for the success of your project. The template is designed to help you think through your idea and present it clearly.
+
+⚠️ Make sure to **replace any text in brackets** with your own content. The brackets are there to help you understand what to put in each section. For example, if it says `[Title]`, replace it with the title of your idea.
+
+⚠️ **Do not include the brackets in your final submission.**
+
+⚠️ Make sure to **delete any text in italics** (i.e., _this_) before submitting. The italics are there to help you understand what to put in each section. For example, if it says _[Include your name(s) here]_, replace it with your name(s).
+
 ## In-Class Ideation (Rounds 1-3)
 
 For this phase, use [`TEMPLATE-1.md`](TEMPLATE-1.md) to structure your ideas, replace the prompts in between brackets, and submit using a pull request in folders `round1`, `round2`, and `round3`.
