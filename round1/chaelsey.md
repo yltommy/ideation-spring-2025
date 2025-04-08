@@ -6,8 +6,6 @@ Chaelsey Park
 
 ## Problem Statement
 
-[Describe the problem that your Chrome Extension will solve. What are the pain points that users experience? How does your extension address these pain points?]
-
 People who use Apollo to collect emails from LinkedIn often have to export those emails to a spreadsheet, write semi-personalized outreach messages, and then mass-send them using external tools. This process is slow and inefficient.
 
 ## Target Audience
