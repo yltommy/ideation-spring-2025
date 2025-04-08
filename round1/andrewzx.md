@@ -10,11 +10,11 @@ News can often feel overwhelming or emotionally draining. On particularly tough 
 
 ## Target Audience
 
-People who read the news online -- students, businessmen, generally between 20-60 years of age. 
+People who read the news online -- students, working professionals and other casual readers, generally between 20-60 years of age. 
 
 ## Description
 
-The main functionality is that this Chrome Extension can extract all the headlines and subheadlines from a particular newspaper website and then paste them into ChatGPT. The user can select to filter by emotion and filter out certain trigger words.
+The main functionality is that this Chrome Extension can extract all the headlines and subheadlines from a particular newspaper website and then paste them into ChatGPT. The user can select to filter by emotion (5 options: inspiring, funny, uplifting, depressing, nerve-wracking) and filter out certain trigger words (maximum 3) on the extension window. When the extension is triggered, ChatGPT will extract all the articles on the website, analyze the content, and output the headlines, subheadlines and the link to the articles that pass the filters. 
 
 ## Selling Points
 
@@ -33,7 +33,9 @@ The main functionality is that this Chrome Extension can extract all the headlin
 
 ## Notes
 
-_[Add any additional notes or considerations for your Chrome Extension idea. This could include potential challenges, alternative approaches, or specific features you want to highlight.]_
+Potential Challenges
+1. Different news sites might have different ways of formatting their HTML script, so we will need to decide on whether to tailor the extension code to a specific site or make it such that it will work for multiple sites.
+2. It might be hard to judge a news article based on purely its headline and sub-headline, since news companies tend to phrase their headlines in a way that favors their own marketing efforts and lures people to click on them even if they do not reflect the actual content.
 
 ## References & Inspiration
 
