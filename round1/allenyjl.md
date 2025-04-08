@@ -2,36 +2,39 @@
 
 ## Authors
 
-[Include your name(s) here]
+Allen Liu
 
 ## Problem Statement
 
-[Describe the problem that your Chrome Extension will solve. What are the pain points that users experience? How does your extension address these pain points?]
+People often spend a significant amount of time crafting thoughtful and effective email responses, especially when juggling multiple conversations. It's easy to forget key context, tone, or action items—leading to miscommunication or delayed replies. Many professionals want to reply efficiently while maintaining quality in their communication. Our extension addresses this by scraping relevant email context and using ChatGPT to generate response drafts, saving users time and reducing cognitive load.
 
 ## Target Audience
 
-[Identify the target audience for your Chrome Extension. Who will benefit from using your extension? What are the main characteristics of your target audience?]
+The target audience includes professionals, students, and anyone who manages frequent email correspondence—especially those in time-sensitive or high-volume communication roles. This can include customer support agents, executives, salespeople, consultants, and academics who need help drafting or improving replies quickly.
 
 ## Description
 
-[Provide a general description of your Chrome Extension idea in 2-3 sentences. Explain the main purpose and functionality of the extension.]
+Smart Email Reply Assistant is a Chrome extension that integrates with Gmail (or any web-based email client) to help users write better responses faster. It automatically detects open email threads, scrapes the relevant content, and sends it to ChatGPT to generate context-aware draft replies. Users can then review, edit, and send with ease.
 
 ## Selling Points
 
-1. [Selling Point 1]
-2. [Selling Point 2]
-3. [Selling Point 3]
-4. [Selling Point 4]
-5. [Selling Point 5]
+1. Saves time drafting emails by using AI-generated suggestions  
+2. Maintains tone and context from prior email threads  
+3. Offers multiple response styles (e.g., professional, casual, concise)  
+4. Easy integration with Gmail and other popular webmail platforms  
+5. Optional keyboard shortcuts for fast access and previewing replies 
 
 ## User Stories
 
-_[List user stories that describe the main features of your Chrome Extension. Use the following template: "As a [user role], I want to [goal] so that [benefit]." Fill in the brackets with the appropriate information. For Round 1, write 5 user stories; Round 2, write 10 user stories; Round 3, write 15 user stories.]_
+1. As a user, I want the extension to detect the currently selected email thread in Gmail so that it can extract the relevant conversation context.
+2. As a user, I want to click a toolbar button to open the Smart Email Reply Assistant so that I can generate a response without switching tabs.
+3. As a user, I want to select a response tone (e.g., formal, friendly, concise) from a dropdown before generating a reply so that the draft matches the intended tone.
+4. As a user, I want to preview the generated email response in a popup before inserting it into the reply box so that I can review and edit it if necessary.
+5. As a user, I want to be able to edit the prompt before it’s sent to ChatGPT so that I can control how the model interprets the context.
 
 ## Notes
 
-_[Add any additional notes or considerations for your Chrome Extension idea. This could include potential challenges, alternative approaches, or specific features you want to highlight.]_
+- Consider support for summarizing long threads and letting users edit the prompt before sending to ChatGPT.
 
 ## References & Inspiration
 
-_[Include any references or sources that inspired your Chrome Extension idea. This could be articles, existing products, or other resources that informed your concept. Just paste any links you found during research.]_
