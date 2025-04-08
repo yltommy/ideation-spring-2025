@@ -6,7 +6,7 @@ Andrew Wong (andrewzx@seas)
 
 ## Problem Statement
 
-News can often be depressing. There are days when our life is tough enough thagt we just want to read about news that can make us smile, while some people may want to avoid news about certain topics because they are triggering.
+News can often feel overwhelming or emotionally draining. On particularly tough days, readers may crave content that lifts their spirits or want to avoid news topics that are personally triggering.
 
 ## Target Audience
 
@@ -18,15 +18,18 @@ The main functionality is that this Chrome Extension can extract all the headlin
 
 ## Selling Points
 
-1. Reduces time needed to browse through newspaper websites to find the right article of interest. 
-2. Don't have to read through articles that evoke negative feelings. 
-3. Can be customized by the user based on their daily emotions and preferences. 
-4. No cost and low effort tool.
-5. Easy to use and navigate.
+1. Enables emotionally-aware news consumption.
+2. Customizable to suit daily moods or preferences.
+3. Saves time by filtering out undesired content upfront.
+4. Accessible, lightweight, and free Chrome Extension.
 
 ## User Stories
 
-_[List user stories that describe the main features of your Chrome Extension. Use the following template: "As a [user role], I want to [goal] so that [benefit]." Fill in the brackets with the appropriate information. For Round 1, write 5 user stories; Round 2, write 10 user stories; Round 3, write 15 user stories.]_
+1. As a stressed-out student, I want to see only uplifting news articles so that I can feel more motivated and less anxious while catching up on current events.
+2. As a working professional, I want to filter out news containing certain trigger words (e.g., “violence,” “war”) so that I can focus on the news that won’t affect my mental well-being during a busy day.
+3. As a casual reader, I want to extract all headlines from a news site in one click so that I don’t have to scroll through cluttered websites to find interesting stories.
+4. As an emotionally sensitive user, I want to sort news by emotional tone (e.g., happy, hopeful, neutral) so that I can control how I feel after reading the news.
+5. As a tech-savvy user, I want to customize the emotional filter and trigger word list so that the extension tailors news recommendations to my personal preferences.
 
 ## Notes
 
@@ -34,4 +37,4 @@ _[Add any additional notes or considerations for your Chrome Extension idea. Thi
 
 ## References & Inspiration
 
-_[Include any references or sources that inspired your Chrome Extension idea. This could be articles, existing products, or other resources that informed your concept. Just paste any links you found during research.]_
+I was partially inspired by HW2 Daily Pennsylvanian scraper but also from personal experience since I feel that recent news have been stressful and depressing, and sometimes I just want to read news that can make me smile. 
