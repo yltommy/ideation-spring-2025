@@ -43,11 +43,9 @@ As a student, I want to view my weekly tasks in a calendar format so I can plan 
 As a student, I want the extension to update my study plan automatically if due dates change on Canvas.
 
 ## Notes
-
-_[Add any additional notes or considerations for your Chrome Extension idea. This could include potential challenges, alternative approaches, or specific features you want to highlight.]_
-
 Some challenges may include requiring Canvas API tokens or login access. In addition, some professors do not post homework deadlines on Canvas and prefer Gradescope,
 so may be difficult to get a full grasp of a student's schedule.
+
 ## References & Inspiration
 
 _[Include any references or sources that inspired your Chrome Extension idea. This could be articles, existing products, or other resources that informed your concept. Just paste any links you found during research.]_
