@@ -36,4 +36,4 @@ AutoAvail for GCal is a Chrome extension that enhances email communication by in
 ## References & Inspiration  
 - Google Calendar API documentation: https://developers.google.com/calendar  
 - Inspired by tools like Calendly, which simplify scheduling but lack direct email integration.  
-- Productivity tips from: https://www.forbes.com/sites/forbescoachescouncil/2019/08/27/15-productivity-hacks-for-scheduling-meetings/
+- Inspired by other chrome extensions for GCal focusing on productivity: https://www.timely.com/blog/best-google-calendar-extensions
