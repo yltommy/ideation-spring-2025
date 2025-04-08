@@ -35,7 +35,8 @@ Mise En Place (French for "everything in its place") is a Chrome extension that 
 ## Notes
 Implementation challenges include developing algorithms to extract recipe content from diverse website layouts, analyzing comment sections for valuable insights, and ensuring cross-site compatibility. 
 
-Key Features:
+Mise En Place will ideally contain the following features:
+
 Clean Interface:
 * Transforms cluttered pages into a consistent format with clear sections
 * Toggle between original page and clean version with a single click
