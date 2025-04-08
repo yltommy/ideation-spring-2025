@@ -66,6 +66,6 @@ Job App Assistant is a Chrome extension that automates the customization of resu
 5. As a tech-savvy professional, I want the extension to format my resume for ATS compatibility so that my application passes automated filters effortlessly.
 
 ## Notes
-- **Potential Challenges**: Accurately parsing diverse job posting formats (e.g., PDFs vs. web pages) and ensuring the AI doesn’t over-tailor documents, losing the user’s voice.
+- **Potential Challenges**: Accurately parsing diverse job posting formats (e.g., PDFs vs. web pages) and ensuring the AI doesn’t over-tailor documents, losing the user’s voice. Also correctly rewriting and formatting a user's resume/cover letter could be difficult if it is a non-epdf or very paculiar layout
 - **Alternative Approaches**: Could integrate with LinkedIn to pull user data or offer a premium version with advanced analytics (e.g., keyword trends across postings).
 - **Specific Features**: Consider adding a “confidence score” for tailored documents to show how well they match the job, or a preview mode before submission.
