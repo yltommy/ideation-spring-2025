@@ -18,11 +18,11 @@ CalNow is a Chrome extension that provides a single-click solution for adding on
 
 ## Selling Points
 
-1. One-Click Simplicity
-2. Automatic Detail Extraction
-3. Time Efficiency
-4. External Calendar Support
-5. Verifiable & Customizable Input
+1.   One-Click Simplicity
+2.   Automatic Detail Extraction
+3.   Time Efficiency
+4.   External Calendar Support
+5.   Verifiable & Customizable Input
 
 ## User Stories
 
@@ -38,5 +38,5 @@ Some webpages may not follow a standard format or use images to display data for
 
 ## References & Inspiration
 
-[Google Calendar Workspace](https://developers.google.com/workspace/calendar) will be required to have the calendar work with Google calendars
-[Outlook API](https://learn.microsoft.com/en-us/outlook/rest/reference) will be required for integration with Outlook calendars
+-  [Google Calendar Workspace](https://developers.google.com/workspace/calendar) will be required to have the calendar work with Google calendars
+-  [Outlook API](https://learn.microsoft.com/en-us/outlook/rest/reference) will be required for integration with Outlook calendars
