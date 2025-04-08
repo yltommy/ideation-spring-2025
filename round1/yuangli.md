@@ -38,4 +38,3 @@ We may face challenges parsing deeply nested Gmail threads due to the way Gmail 
 
 ## References & Inspiration
 
-_[Include any references or sources that inspired your Chrome Extension idea. This could be articles, existing products, or other resources that informed your concept. Just paste any links you found during research.]_
