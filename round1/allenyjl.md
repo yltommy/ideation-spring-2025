@@ -1,4 +1,4 @@
-# Chrome Extension Idea: Smart Email Writer
+# Chrome Extension Idea: Smart Email Assistant
 
 ## Authors
 
